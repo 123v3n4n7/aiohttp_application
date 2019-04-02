@@ -1,0 +1,11 @@
+site_name: "DEFAULT NAME SITE"
+database_uri: postgresql://postgres:11@localhost:5432/demo
+#database_uri: {
+#                'host':'localhost',
+#                'port':'5432',
+#                'database':'demo',
+#                'user':'postgres',
+#                'password':'11',
+#                'min_size':5,
+#                'max_size':10
+#              }
